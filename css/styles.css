@@ -1,135 +1,177 @@
-body{
-  margin-top:70px;
-  font-size:16px;
+body {
+    margin-top: 70px;
+    font-size: 16px;
 }
 
-h1,h2,h3,h4,h5,h6{
-  font-family:Poppins;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: Poppins;
 }
 
-p{
-  font-family:Roboto;
+p {
+    font-family: Roboto;
 }
 
-.navbar-default{
-  background:#fff;
-  border:0;
-  font-family:Poppins;
+.navbar-default {
+    background: #fff;
+    border: 0;
+    font-family: Poppins;
 }
 
-.navbar-brand{
-  font-size:20px;
-  color:#000 !important;
-  font-weight:bold;
+.navbar-brand {
+    font-size: 20px;
+    color: #000 !important;
+    font-weight: bold;
 }
 
-#showcase h1{
-  font-size:50px;
-  margin-bottom:20px;
+#showcase h1 {
+    font-size: 50px;
+    margin-bottom: 20px;
 }
 
-#showcase img{
-  width:40%;
-  margin-left:60px;
+#showcase img {
+    width: 40%;
+    margin-left: 60px;
 }
 
-#showcase .showcase-right{
-  margin-top:90px;
+#showcase .showcase-right {
+    margin-top: 90px;
 }
 
-#showcase .showcase-left{
-  margin-top:90px;
+#showcase .showcase-left {
+    margin-top: 90px;
 }
 
-#showcase .showcase-middle{
-  margin-top:90px;
+#showcase .showcase-middle {
+    margin-top: 90px;
+    margin-right: 60px;
+    text-align: center;
 }
 
-#testimonial{
-  background:#f1f1f1;
-  padding: 50px 0 30px 0;
-  text-align:center;
-  margin-top:40px;
+#showcase .h1 {
+    margin-right: 60px;
+    text-align: center;
 }
 
-#testimonial p{
-  font-size:32px;
-  font-family: 'Josefin Sans';
-  color:#000;
+
+/*showcase 2*/
+
+#showcase2 h1 {
+    font-size: 50px;
+    margin-bottom: 20px;
 }
 
-#testimonial p.customer{
-  font-size:20px;
-  color:#666;
+#showcase2 img {
+    width: 40%;
+    margin-left: 60px;
 }
 
-#testimonial1{
-  background:#f1f1f1;
-  padding: 50px 0 30px 0;
-  text-align:center;
-  margin-top:40px;
+#showcase2 .showcase2-right {
+    margin-top: 90px;
 }
 
-#testimonial1 p{
-  font-size:32px;
-  font-family: 'Josefin Sans';
-  color:#000;
+#showcase2 .showcase2-left {
+    margin-top: 90px;
 }
 
-#testimonial1 p.customer{
-  font-size:20px;
-  color:#666;
+#showcase2 .showcase2-middle {
+    margin-top: 90px;
 }
 
-#info1{
-  margin:20px 0 60px 0;
+#testimonial {
+    background: #f1f1f1;
+    padding: 50px 0 30px 0;
+    text-align: center;
+    margin-top: 40px;
 }
 
-#info2{
-  margin:20px 0 60px 0;
+#testimonial p {
+    font-size: 32px;
+    font-family: 'Josefin Sans';
+    color: #000;
 }
 
-#info3{
-  margin:20px 0 60px 0;
+#testimonial p.customer {
+    font-size: 20px;
+    color: #666;
 }
 
-#info4{
-  margin:20px 0 60px 0;
+#testimonial1 {
+    background: #f1f1f1;
+    padding: 50px 0 30px 0;
+    text-align: center;
+    margin-top: 40px;
 }
 
-#contact{
-  padding:40px;
-  color:"black";
-  border-top:#333 7px solid;
-  border-bottom:#333 7px solid;
+#testimonial1 p {
+    font-size: 32px;
+    font-family: 'Josefin Sans';
+    color: #000;
 }
 
-footer{
-  padding:30px;
+#testimonial1 p.customer {
+    font-size: 20px;
+    color: #666;
 }
 
-.progress .color1, .progress .color1 .bar-width {
+#info1 {
+    margin: 20px 0 60px 0;
+}
+
+#info2 {
+    margin: 20px 0 60px 0;
+}
+
+#info3 {
+    margin: 20px 0 60px 0;
+}
+
+#info4 {
+    margin: 20px 0 60px 0;
+}
+
+#contact {
+    padding: 40px;
+    color: "black";
+    border-top: #333 7px solid;
+    border-bottom: #333 7px solid;
+}
+
+footer {
+    padding: 30px;
+}
+
+.progress .color1,
+.progress .color1 .bar-width {
     background: #2d7da4;
 }
 
-.progress .color2, .progress .color2 .bar-width {
+.progress .color2,
+.progress .color2 .bar-width {
     background: #6aa42f;
 }
 
-.progress .color3, .progress .color3 .bar-width {
+.progress .color3,
+.progress .color3 .bar-width {
     background: purple;
 }
 
-.progress .color4, .progress .color4 .bar-width {
+.progress .color4,
+.progress .color4 .bar-width {
     background: #ffbb00;
-    
 }
 
-.progress .color5, .progress .color5 .bar-width {
+.progress .color5,
+.progress .color5 .bar-width {
     /* background: #db3615; */
     background: red;
 }
 
-.progress .color6, .progress .color6 .bar-width {
+.progress .color6,
+.progress .color6 .bar-width {
     background: maroon;
 }
