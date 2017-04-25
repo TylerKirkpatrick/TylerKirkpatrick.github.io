@@ -99,3 +99,29 @@ p{
 footer{
   padding:30px;
 }
+
+.progress .color1, .progress .color1 .bar-width {
+    background: #2d7da4;
+}
+
+.progress .color2, .progress .color2 .bar-width {
+    background: #6aa42f;
+}
+
+.progress .color3, .progress .color3 .bar-width {
+    background: purple;
+}
+
+.progress .color4, .progress .color4 .bar-width {
+    background: #ffbb00;
+    
+}
+
+.progress .color5, .progress .color5 .bar-width {
+    /* background: #db3615; */
+    background: red;
+}
+
+.progress .color6, .progress .color6 .bar-width {
+    background: maroon;
+}
