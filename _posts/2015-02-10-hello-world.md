@@ -1,4 +1,4 @@
 ---
-title: Hello World
+title: First Post
 ---
-The first post is right here. Don't ever talk to me or my son ever again.
+Ignore this post. Just using it for reference. The empire did nothing wrong.
