@@ -57,6 +57,13 @@ p {
     text-align: center;
 }
 
+#showcase img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%
+}
+
 
 /*showcase 2*/
 
@@ -174,4 +181,9 @@ footer {
 .progress .color6,
 .progress .color6 .bar-width {
     background: maroon;
+}
+
+a img {
+    margin:0 auto;    
+    display:block;
 }
